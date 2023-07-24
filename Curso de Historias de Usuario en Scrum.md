@@ -3,8 +3,7 @@
 El origen de la metodoliga SCRUM parte de un marco de trabajo llamado **EXTREME PROGRAMMING**. Esta metodogia fue fundamental y de gran importancia dentro del manifiesto agil y es una de las razones por las cuales usamos HU en SCRUM. 
 El concepto de Scrum tiene su origen en un estudio de 1986 sobre los nuevos procesos de desarrollo utilizados en productos exitosos en Japón y los Estados Unidos (cámaras de fotos de Canon, fotocopiadoras de Xerox, automóviles de Honda, ordenadores de HP y otros). Los equipos que desarrollaron estos productos partían de requisitos muy generales, así como novedosos, y debían salir al mercado en mucho menos del tiempo del que se tardó en lanzar productos anteriores.
 En 1993 se realizó el primer Scrum para desarrollo de software y en 1995 el proceso fue formalizado. Ya para el 2001 un grupo de personas muy relevantes en lo que empezaba a ser el desarrollo ágil escribieron los valores fundamentales de los procesos ágiles.
-> *Fuente:* [https://proyectosagiles.org/][id/name]
-[id/name]: https://proyectosagiles.org/historia-de-scrum/#:~:text=El%20concepto%20de%20Scrum%20tiene,ordenadores%20de%20HP%20y%20otros/
+> *Fuente:* https://proyectosagiles.org/
 
 ### Que es una Historia de Usuario (HU)?
 Una HU describe de manera simple una funcionalidad esperada, contada desde la perspectiva de la persona que la va a usar.
