@@ -8,7 +8,7 @@ En 1993 se realizó el primer Scrum para desarrollo de software y en 1995 el pro
 
 ### Que es una Historia de Usuario (HU)?
 Una HU describe de manera simple una funcionalidad esperada, contada desde la perspectiva de la persona que la va a usar.
-Las Historias de Usuario son los elementos más específicos de la lista de producto y contienen la visión del usuario sobre la funcionalidad esperada de ese producto. 
+Las Historias de Usuario son los elementos más específicos de la lista de producto y contienen la visión del usuario sobre la funcionalidad esperada de ese producto. <br><br>
 **Nota:** 
 1. No confundir al usurio final de esta funcionalidad con la persona que solicita el software o cliente final (Produt Owner).
 2. No se deben confundir las Historias de Usuario con requerimientos, en ellas se referencia lo que el usuario quiere o espera del producto terminado.
@@ -65,7 +65,7 @@ N: **Negotiable.** Poder de descartar historias no valiosas, negociar el orden y
 V: **Valuable.** Toda historia de usuaria debe ser valiosa cuando queda claro el*“para que”.*
 E: **Estimable**. El equipo de desarrollo, debe de calcular el tiempo y esfuerzo que le llevara cumplir con la HU.
 S: **Small.** Se da mas peso a la conversación que nos alimenten el contexto.
-T: **Testeable.** Valida que los criterios de aceptación, y especifica si la HU esta siendo “correcta”o“incorrecta”.
+T: **Testeable.** Valida que los criterios de aceptación, y especifica si la HU esta siendo “correcta”o“incorrecta”. <br><br>
 **NOTA:** *Cuando todo urge nada realmente importa, porque si todo urge tiene la misma importancia, y si tiene la misma importancia no importa el orden en que lo hagas.*
 
 ## ¿Qué es un Backlog en Scrum?
@@ -84,7 +84,7 @@ Las historias de usuario son un componente clave de la metodología Scrum. Son u
 5. **Prioriza las historias de usuario:** No todas las historias de usuario son iguales. Algunas son más importantes que otras. Prioriza las historias de usuario en función de su importancia y urgencia.
 
 **NOTA:**
-***Que son Criterios de Aceptacion?***
+***Que son Criterios de Aceptacion?*** <br>
 Los criterios de aceptación son una lista de requisitos que deben cumplirse para que una historia de usuario se considere completa. Se utilizan para garantizar que el equipo de desarrollo entienda las necesidades del usuario y que el producto final cumpla con las expectativas y estandar de caliadad.
 Los criterios de aceptación generalmente se dividen en dos categorías: **Criterios Funcionales** y **No Funcionales**. Los criterios funcionales se refieren a las funciones específicas del producto que deben cumplirse. Los criterios no funcionales se refieren a los atributos del producto, como el rendimiento, la seguridad y la facilidad de uso.
 
