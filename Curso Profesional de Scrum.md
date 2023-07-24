@@ -39,7 +39,8 @@ Falso
 Cualquier miembro del equipo
                 
 ----
-### Qué miden los puntos de las historias? La cantidad de esfuerzo necesario para completarla.
+### Qué miden los puntos de las historias?
+La cantidad de esfuerzo necesario para completarla.
                 
 ----
 ### Quién define el contenido del backlog del sprint? 
