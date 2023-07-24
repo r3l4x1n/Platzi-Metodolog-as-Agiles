@@ -7,5 +7,6 @@ Si te estás preparando para un examen de certificación de Platzi, te recomiend
 
 |Curso|
 |-----------|
+|[Curso Profesional de Scrum](https://github.com/r3l4x1n/Platzi-Metodologias-Agiles/blob/main/Curso%20Profesional%20de%20Scrum.md)|
 |[Curso de Historias de Usuario en Scrum](https://github.com/r3l4x1n/Platzi-Metodologias-Agiles/blob/main/Curso%20de%20Historias%20de%20Usuario%20en%20Scrum.md)|
 |[]()|
