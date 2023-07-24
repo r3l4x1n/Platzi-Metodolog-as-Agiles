@@ -1,4 +1,25 @@
 # Curso Profesional de Scrum
+
+Agile es un marco de trabajo para el desarrollo de software que se centra en la colaboración, la comunicación y la iteración. Scrum es un marco de trabajo ágil que se centra en el desarrollo de software de forma incremental y repetible.
+Agile se centra en las personas, tanto clientes como el equipo de desarrollo.
+> La metodología agile tiene que ver con una mentalidad acerca del desarrollo de software, la cual está fundamentada en el [manifiesto Agile](https://agilemanifesto.org).
+
+## Diferencias entre el desarrollo ágil y el desarrollo tradicional.
+Frente a las prácticas de desarrollo tradicionales, el desarrollo ágil plantea tres enfoques claves:
+### Equipos de trabajo:
+- En el desarrollo tradicional, los equipos suelen ser grandes, con entre 15 y 20 personas trabajando en el mismo proyecto. Esto puede dificultar saber quién está trabajando en qué y cómo se está progresando.
+
+- Agile aborda este problema al utilizar equipos más pequeños. Cada miembro del equipo trabaja en un proyecto durante un período de tiempo corto, llamado iteración. Durante la iteración, el equipo tiene un objetivo claro, lo que facilita saber quién está trabajando en qué y cómo se está progresando.
+### Requerimientos:
+- En el desarrollo tradicional, el equipo de desarrollo se reúne con el cliente para obtener una lista de requisitos. Esta lista puede ser larga y compleja, y a su vez ser difícil para el equipo de desarrollo entender todos los requisitos a la vez.
+
+- Agile aborda este problema al dividir la lista de requisitos en pequeñas listas más manejables. Cada lista se llama **SPRINT**, y generalmente dura de una a cuatro semanas. El equipo de desarrollo se centra en un sprint a la vez, lo que le permite concentrarse en una tarea a la vez y entregar un producto terminado al final de cada iteración.
+### Generación de Valor
+- En el desarrollo tradicional, el producto se entrega al final del proyecto. Esto puede ser un problema si el cliente no está satisfecho con el producto o si hay cambios en los requisitos. En estos casos, puede ser necesario realizar cambios en el producto, lo que puede retrasar el proyecto y aumentar los costos.
+- Agile aborda el problema entregando el producto en iteraciones cortas de dos a cuatro semanas. Al final de cada iteración, el equipo de desarrollo recibe el feedback del cliente, lo que permite realizar cambios antes de que el proyecto finalice. Esto asegura una mayor colaboración y adaptabilidad para satisfacer las expectativas del cliente.
+
+
+# Test Curso Profesional de Scrum
 ### Es una diferencia de SCRUM con respecto al desarrollo tradicional: 
 Trabajar pequeños lotes de requerimientos.
                 

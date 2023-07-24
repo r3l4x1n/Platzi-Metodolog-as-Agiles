@@ -74,7 +74,7 @@ El product backlog en Scrum es una lista de características que han sido priori
 ### * Refinamiento Del Backlog (Backlog Grooming )
 El propósito del Refinamiento del Backlog del Producto es añadir detalles, descubrir, estimar y ordenar a los elementos del Product Backlog. Durante el Refinamiento de la Lista de Pendientes del Producto, los ítems son revisados, actualizados y modificados. Esta actividad la hace todo el equipo Scrum.
 
-# Cómo hacemos Historias de Usuario a partir listas de requerimientos?
+## Cómo hacemos Historias de Usuario a partir listas de requerimientos?
 Las historias de usuario son un componente clave de la metodología Scrum. Son una forma de describir las necesidades del usuario y de garantizar que el equipo de desarrollo las comprenda y las pueda implementar.
 **Algunos pasos que podrias seguir son:**
 1. **Identifique el Usuario:** Quién es el usuario que va a utilizar esta característica?, Cuáles son sus necesidades y deseos?, Que FUNCIONALIDADES hay en esos requerimientos?.
@@ -88,7 +88,7 @@ Las historias de usuario son un componente clave de la metodología Scrum. Son u
 Los criterios de aceptación son una lista de requisitos que deben cumplirse para que una historia de usuario se considere completa. Se utilizan para garantizar que el equipo de desarrollo entienda las necesidades del usuario y que el producto final cumpla con las expectativas y estandar de caliadad.
 Los criterios de aceptación generalmente se dividen en dos categorías: **Criterios Funcionales** y **No Funcionales**. Los criterios funcionales se refieren a las funciones específicas del producto que deben cumplirse. Los criterios no funcionales se refieren a los atributos del producto, como el rendimiento, la seguridad y la facilidad de uso.
 
-## Test Curso de Historias de Usuario en Scrum
+# Test Curso de Historias de Usuario en Scrum
 ### Qué es una Historia de Usuario?
 Es una descripción simple una característica esperada, contada desde la perspectiva de la persona que va a usar esa capacidad.
                 
