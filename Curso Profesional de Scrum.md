@@ -2,7 +2,7 @@
 
 Agile es un marco de trabajo para el desarrollo de software que se centra en la colaboración, la comunicación y la iteración. Scrum es un marco de trabajo ágil que se centra en el desarrollo de software de forma incremental y repetible.
 Agile se centra en las personas, tanto clientes como el equipo de desarrollo.
-> La metodología agile tiene que ver con una mentalidad acerca del desarrollo de software, la cual está fundamentada en el [manifiesto Agile](https://agilemanifesto.org).
+> La metodología agile basa su enfoque de desarrollo de software en la mejora continua, las iteraciones cortas y la colaboración estrecha entre el equipo y los clientes descritos en el -[manifiesto Agile](https://agilemanifesto.org).-
 
 ## Diferencias entre el desarrollo ágil y el desarrollo tradicional.
 Frente a las prácticas de desarrollo tradicionales, el desarrollo ágil plantea tres enfoques claves:
