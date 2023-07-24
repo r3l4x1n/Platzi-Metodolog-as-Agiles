@@ -97,9 +97,8 @@ Es una descripción simple una característica esperada, contada desde la perspe
 Trabajar con Historias de Usuario de gran tamaño y difícil de estimar (épicas).
                 
 ----
-(MALA) ### Por qué solemos subestimar las Historias de Usuario?
-Por no provenir de Scrum. (MALA)
-r=// subestimamos la siplicidad, porque y para quien - 
+### Por qué solemos subestimar las Historias de Usuario?
+Por la simplicidad.
                 
 ----
 ### De qué se trata la "I" de la propiedad INVEST que deben de tener las Historias de Usuario?
@@ -116,7 +115,6 @@ Estimable
 ----
 ### Qué es el Backlog en Scrum?
 Es una lista emergente y ordenada de lo que se necesita para mejorar el producto.
-CAMBIAR
                 
 ----
 ### Qué es el refinamiento?
@@ -125,12 +123,11 @@ Es descomponer y definir aún más los elementos de trabajo pendiente del produc
 ----
 ### Se pueden crear Historias de Usuario a partir de listas de requisitos?
 Verdadero
-CAMBIAR
                 
 ----
 ### Qué son los criterios de aceptación?
 Son características que deben de estar presentes para considerar que se está construyendo el producto correctamente.
                 
 ----
-(MALA) ### Cuál de las características de la Propiedad Invest ayuda más a la priorización?
-r=// Valor - 
+### Cuál de las características de la Propiedad Invest ayuda más a la priorización?
+Valiosa 
