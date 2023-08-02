@@ -59,7 +59,7 @@ Los componentes que debe tener una buena Historia de Usuario, para que sea fáci
 
 ### * Propiedades IVEST:
 Estas propiedades estan relacionadas con las historias de usuario de la siguiente manera y debes velar porque cada Historia de Usuario las tenga:
-I : **Independent**. Cuidar que una HU no sea una *Epica*.
+I: **Independent**. Cuidar que una HU no sea una *Epica*.
 N: **Negotiable.** Poder de descartar historias no valiosas, negociar el orden y la priorización.
 V: **Valuable.** Toda historia de usuaria debe ser valiosa cuando queda claro el*“para que”.*
 E: **Estimable**. El equipo de desarrollo, debe de calcular el tiempo y esfuerzo que le llevara cumplir con la HU.
